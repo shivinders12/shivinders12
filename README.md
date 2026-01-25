@@ -33,7 +33,7 @@ I’m passionate about building clean, modern Android apps using Kotlin & Jetpac
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivnders12&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivinders12&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivinders12&layout=compact&theme=tokyonight)
 
