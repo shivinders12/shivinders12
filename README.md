@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivinder Singh  
 
-<!--
-**shivinders12/shivinders12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Android Developer  
 
-Here are some ideas to get you started:
+I’m passionate about building clean, modern Android apps using Kotlin & Jetpack Compose and solving real-world systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me  
+
+- 📱 Focused on **Android App Development**
+- 💡 Love working with **Jetpack Compose UI**
+- 🎯 Goal: Build scalable, production-ready mobile apps
+
+---
+
+## 🛠 Tech Stack  
+
+### 📱 Android Development  
+- Kotlin  
+- Java  
+- Jetpack Compose  
+- Android Studio  
+- MVVM Architecture  
+- Room Database  
+- REST APIs  
+- Retrofit  
+- Coroutines  
+- Material Design
+  
+---
+
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 What I'm Currently Working On  
+
+- 📱 Advanced Jetpack Compose UI  
+- ⚡ Performance-optimized Android apps  
+
+---
+
+## 🌐 Connect With Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shivinders12/  
+- 📧 Email: your@email.com  
+
+---
+
+## ✨ Fun Dev Stuff  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Android+Developer;SQL+Explorer;Networking+Learner;Always+Building+Apps)
+
+---
+
+⭐ Feel free to explore my repos and drop a star if you like something!
