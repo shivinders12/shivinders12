@@ -34,10 +34,10 @@ Developer shivinder = {
 
 ## 🧭 What I'm up to
 
-- 🔢 Grinding **DSA** daily in C++ — arrays, hashing, linked lists, sorting
-- 📱 Building **Android apps** with Jetpack Compose & MVVM
+- 🔢 Grinding **DSA** daily in C++ 
+- 📱 Building **Android apps** with Jetpack Compose ,Kotlin and Java
 - ⚙️ Exploring **backend systems**, REST APIs & database design
-- 🤖 Tinkering with **Conversational AI** & NLP in Python
+- 🤖 Tinkering with **Python**,**Machine Learning**,**Conversational AI** 
 - 🌐 Contributing to & maintaining **open source** tools for developers & students
 
 ---
@@ -89,39 +89,8 @@ Developer shivinder = {
 
 </div>
 
----
 
-## 📈 Activity Graph
 
-<div align="center">
-
-[![Shivinder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivinders12&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/shivinders12)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shivinders12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/shivinders12)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-| Area | Progress |
-|---|---|
-| DSA & Problem Solving | `████████████████████` 98% |
-| C++ | `███████████████████░` 95% |
-| Android Development | `█████████████████░░░` 85% |
-| Backend Development | `███████████████░░░░░` 75% |
-| Open Source | `███████████████░░░░░` 75% |
-| Python & AI/NLP | `█████████████░░░░░░░` 65% |
-| SQL & Databases | `███████████░░░░░░░░░` 55% |
 
 ---
 
