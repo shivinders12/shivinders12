@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivinder%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AIML%20%C2%B7%20DSA%20%C2%B7%20APP%20Developer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivinder%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AIML%20%C2%B7%20DSA%20%C2%B7%20APP%20DEVELOPER%20%C2%B7%20OPEN%20SOURCE&descAlignY=62&descSize=18" width="100%"/>
 
 </div>
 
@@ -9,7 +9,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivinders12/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivinders12)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivinders12/)
 
 </div>
