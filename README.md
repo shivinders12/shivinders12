@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivinders12/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivinders12)
-[![Profile Views](https://komarev.com/ghpvc/?username=shivinders12&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/shivinders12)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nW5w2t7ISa/)
 
 </div>
 
